@@ -1,0 +1,18 @@
+# Node Modules
+node_modules
+
+# Build Folder (React)
+client/build
+
+# Environment Variables (opsional, tapi direkomendasikan)
+.env
+
+# Uploads Folder (jika ada)
+server/uploads
+
+# macOS
+.DS_Store
+
+# IDE Specific (opsional)
+.vscode/
+.idea/ 
